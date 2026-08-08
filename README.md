@@ -26,5 +26,3 @@ I'm on a self-directed path from full stack development toward systems programmi
 
 - 📫 miguelmofurtado@gmail.com
 - 💼 [LinkedIn](https://linkedin.com/in/miguelmofurtado)
-
-Open to remote full stack roles across Europe.
